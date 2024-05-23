@@ -1,5 +1,3 @@
-kingsman25/EventRegistrationApp
-
 Event Registration System
 
 Setup
